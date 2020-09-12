@@ -4,4 +4,4 @@ if x <10:
 if 10>20:
     print('Bigger')
 
-print('Finis')
+print('Finish')
